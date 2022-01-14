@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <name>My responsive HTML vb</name>
+  <type>html5</type>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <name>rh_reimagined</name>
+      <path>../../toc/rh_reimagined.toc</path>
+    </toc>
+  </content>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <starterPage>index.htm</starterPage>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+    <contextLimit type="number">100</contextLimit>
+    <context type="boolean">false</context>
+  </search>
+  <title>RoboHelp Reimagined</title>
+  <outputPath>C:/Users/Administrator/Documents/My RoboHelp Projects/outputs/RoboHelp Reimagined/My responsive HTML]</outputPath>
+</preset>
